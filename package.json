@@ -7,9 +7,9 @@
     "test": "test"
   },
   "scripts": {
-    "dev": "parcel src/index.html",
-    "test": "parcel src/test/index.html",
-    "build": "parcel build src/index.html"
+    "dev": "parcel serve src/*.html --open",
+    "test": "parcel serve src/test/*.html --open",
+    "build": "parcel build src/*.html"
   },
   "repository": {
     "type": "git",
@@ -25,10 +25,6 @@
   "dependencies": {
     "@types/qunit": "^2.11.1",
     "parcel": "^1.12.4",
-    "parcel-bundler": "^1.12.3",
-    "tsc": "^1.20150623.0"
-  },
-  "devDependencies": {
-    "typescript": "^4.2.3"
+    "parcel-bundler": "^1.12.3"
   }
 }
