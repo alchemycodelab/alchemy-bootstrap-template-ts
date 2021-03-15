@@ -21,4 +21,4 @@
 
 7) In your terminal, `npm start`. A tab should open in your browser. Change files in `src/index.html` and `src/index.ts` to live update this code.
 
-_(credit to Ben Waples for kicking this project off!)_
+_credit to Ben Waples for kicking this project off!  https://github.com/benwaples_
