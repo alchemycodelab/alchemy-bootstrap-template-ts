@@ -5,9 +5,9 @@ name: Node.js CI
 
 on:
   push:
-    branches: [ master, main ]
+    branches: [ master, main, dev ]
   pull_request:
-    branches: [ master, main ]
+    branches: [ master, main, dev ]
 
 jobs:
   build:
@@ -25,7 +25,7 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
     - run: npm i eslint esm jsdom
-    - run: npx eslint .
-    - run: npx qunit test/index.js
+    - run: npx parcel build src/*.html
+    - run: npx qunit src/test/index.ts
       env:
         CI: true
