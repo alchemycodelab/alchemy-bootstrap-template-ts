@@ -15,7 +15,7 @@
     "type": "git",
     "url": "git+https://github.com/benwaples/create-alchemy-bootstrap-ts.git"
   },
-  "keywords": [],
+  "keywords": [], 
   "author": "",
   "license": "ISC",
   "bugs": {
