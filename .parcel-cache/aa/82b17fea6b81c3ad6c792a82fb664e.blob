@@ -1,0 +1,4 @@
+var _utils = require('./utils');
+// import functions and grab DOM elements
+// initialize state
+console.log(_utils.it);

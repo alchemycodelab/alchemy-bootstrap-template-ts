@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link href="https://fonts.googleapis.com/css2?family=Titillium+Web:wght@300&display=swap" rel="stylesheet">
+    <!-- <link rel="stylesheet" href="styles/reset.css"> -->
+    <link rel="stylesheet" href="/index.HASH_REF_73c72df9b3c5dcecf3d53490edaf96df.css">
+    <!-- <link rel="stylesheet" href="styles/home.css"> -->
+    <title>Document</title>
+</head>
+
+<body>
+    <header>
+        <div class="gutter-right logo">
+            <a href="/">
+                <img src="/big-logo.HASH_REF_df8c1f6aa1122eb337eed73d187b9716.png"> 
+            </a>
+        </div>
+    </header>
+    <main>
+        <section class="main-section">
+            <div class="logo-container">
+                <img class="main-logo" src="/alchemy-logo.HASH_REF_dab566bc4349f6b58ed90cfa884fa7fe.png">
+                <img class="main-logo ts-logo" src="/typescript.HASH_REF_3c8533f150539ffe3eb8563c0e5bc034.png">
+            </div>
+            <h2>
+                Welcome to Alchemy Bootstrap, TypeScript Edition!
+            </h2>
+            <section>
+                <p>
+                    <a href="/about/index.html">About</a>
+                </p>
+                <p>
+                    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tenetur eos, minima fugit aperiam omnis hic repellendus saepe magni veritatis et provident beatae libero quos sapiente at officia voluptatum quo non.
+                </p>
+            </section>
+    </section></main>
+    <footer>
+        <div class="copy gutter-right">&copy; 2020 Alchemy Code Lab</div>
+    </footer>
+
+    <script src="/index.HASH_REF_912fe0cf27f5dbf85fb30ee1d38910a9.js"></script>
+</body>
+
+</html>

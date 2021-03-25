@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link href="https://fonts.googleapis.com/css2?family=Titillium+Web:wght@300&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/about/index.HASH_REF_2c3226947c50612b6cb1052d7aac9de7.css">
+    <link rel="stylesheet" href="/index.HASH_REF_73c72df9b3c5dcecf3d53490edaf96df.css"> 
+    <link rel="stylesheet" href="/about/index.HASH_REF_ba0ac926ced4fbe08e7d24c89360a970.css">
+    <title>Document</title>
+</head>
+
+<body>
+    <header>
+        <div class="gutter-right logo">
+            <a href="/">
+                <img src="/big-logo.HASH_REF_df8c1f6aa1122eb337eed73d187b9716.png">
+            </a>
+        </div>
+    </header>
+    <main>
+        <section class="main-section">
+            <h2>
+                About page!
+            </h2>
+            <section>
+                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Earum obcaecati blanditiis odit. Et quas perferendis at nemo doloremque, asperiores eum. Alias ea quisquam corrupti deleniti ipsa est qui tempore aperiam!
+            </section>
+    </section></main>
+    <footer>
+        <div class="copy gutter-right">&copy; 2020 Alchemy Code Lab</div>
+    </footer>
+
+</body>
+
+</html><script src="/about/index.HASH_REF_b051198392a7ba1e5f7e9f672dea68e7.js"></script>

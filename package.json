@@ -15,7 +15,7 @@
     "type": "git",
     "url": "git+https://github.com/benwaples/create-alchemy-bootstrap-ts.git"
   },
-  "keywords": [], 
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
@@ -24,7 +24,6 @@
   "homepage": "https://github.com/benwaples/create-alchemy-bootstrap-ts#readme",
   "dependencies": {
     "@types/qunit": "^2.11.1",
-    "parcel": "^1.12.4",
-    "parcel-bundler": "1.12.3"
+    "parcel": "^2.0.0-beta.2"
   }
 }
