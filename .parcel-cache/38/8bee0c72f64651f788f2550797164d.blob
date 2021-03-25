@@ -1,5 +1,0 @@
-var _utils = require('./utils');
-// import functions and grab DOM elements
-// initialize state
-const ok = _utils.it('fido');
-console.log(ok);
