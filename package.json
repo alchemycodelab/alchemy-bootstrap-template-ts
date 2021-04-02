@@ -2,7 +2,6 @@
   "name": "create-alchemy-bootstrap-ts",
   "version": "1.0.0",
   "description": "replica of the npm package create-alchemy-bootstrap but converted for TypeScript Projects",
-  "main": "app.js",
   "directories": {
     "test": "test"
   },
