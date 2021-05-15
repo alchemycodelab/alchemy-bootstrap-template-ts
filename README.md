@@ -19,6 +19,6 @@
 
 6) In your terminal, `code .` to open the text editor. If that doesn't work, do whatever you need to do to open this directory up in VSCode.
 
-7) In your terminal, `npm start`. A tab should open in your browser. Change files in `src/index.html` and `src/index.ts` to live update this code.
+7) In your terminal, `npm start`. A tab should open in your browser. Change files in `src/index.html` and `src/app.ts` to live update this code.
 
 _credit to Ben Waples for kicking this project off!  https://github.com/benwaples_
